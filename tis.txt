@@ -1,4 +1,0 @@
-./file1.PHP:1:hello im morad this is file2.PHP
-./file1.PHP:2:hello im MORAD this is file2.PHP
-./file1.php:1:hello im morad this is my file1.php
-./file1.php:2:hello im MORAD this is my file1.php
